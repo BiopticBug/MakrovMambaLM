@@ -1,0 +1,58 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local environment / runtime artifacts
+*.log
+*.tmp
+*.bak
+
+# Python package/build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter / notebooks
+.ipynb_checkpoints/
+
+# Local config / secrets
+.env
+.env.*
+*.pem
+
+# Project-generated outputs you typically do not want in Git
+*.json
+*.csv
+*.pkl
+*.npy
+*.npz
+
+# Keep the actual source files tracked
+!*.py
+!*.md
+!*.txt
+!Dockerfile
+!requirements.txt
