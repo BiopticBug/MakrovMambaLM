@@ -20,8 +20,8 @@ See [`docs/findings.md`](docs/findings.md) *(optional, if you keep your own note
 ---
 
 ## Architecture
+<img width="1536" height="1024" alt="Makrov Architecture" src="https://github.com/user-attachments/assets/4db3f929-21ec-454d-9cf6-719dd34c6425" />
 
-![MarkovMambaLM Architecture](assets/architecture.svg)
 
 **How it works, in short:**
 
